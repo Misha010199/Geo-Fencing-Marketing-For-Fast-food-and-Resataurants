@@ -18,7 +18,7 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.3",
     "natural": "^6.5.0",
-    "puppeteer": "^19.8.2",
+    "puppeteer": "^24.7.2",
     "request": "^2.88.2",
     "sentiment": "^5.0.2"
   },
