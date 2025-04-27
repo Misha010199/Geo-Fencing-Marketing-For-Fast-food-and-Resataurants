@@ -19,7 +19,7 @@
     "@react-navigation/bottom-tabs": "^6.5.2",
     "@react-navigation/native": "^6.1.1",
     "@react-navigation/stack": "^6.3.10",
-    "axios": "^1.4.0",
+    "axios": "^1.8.2",
     "camelize": "^1.0.1",
     "expo": "^47.0.12",
     "expo-background-fetch": "~11.0.1",
