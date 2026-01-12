@@ -21,7 +21,7 @@
     "@react-navigation/stack": "^6.3.10",
     "axios": "^1.4.0",
     "camelize": "^1.0.1",
-    "expo": "^47.0.12",
+    "expo": "^54.0.13",
     "expo-background-fetch": "~11.0.1",
     "expo-camera": "~13.1.0",
     "expo-cli": "^6.3.2",
